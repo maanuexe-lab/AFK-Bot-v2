@@ -2,14 +2,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "hijdabot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "vellagamer0.aternos.me",
     "port":  27251
-    "version": "26.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
